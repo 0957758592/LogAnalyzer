@@ -1,0 +1,9 @@
+/.idea
+/target
+/src/main/resources
+/src/main/java/com/ozzot/loganalyzer/Main.java
+/src/main/java/com/ozzot/loganalyzer/Test.java
+
+*.iml
+*.class
+*.txt
