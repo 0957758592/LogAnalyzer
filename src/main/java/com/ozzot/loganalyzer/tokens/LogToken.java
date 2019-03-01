@@ -17,7 +17,7 @@ public class LogToken {
 
     @Override
     public String toString() {
-        return "\nLogToken{" +
+        return "LogToken{" +
                 "localDateTime=" + localDateTime +
                 ", httpMethod=" + httpMethod +
                 ", message='" + message + '\'' +
